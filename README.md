@@ -69,6 +69,15 @@ Additional   REST API • PWA • Service Workers • FCM • OAuth
 🌐 https://glorax.com
 
 ---
+## Achievements
+
+→ Winner of university hackathons (2022, 2023)
+
+→ Participant of ICPC programming contest in Saint Petersburg
+
+→ Participant of InnoGlobalHack 2024
+
+---
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Igumenova\&layout=compact\&hide_border=true)
 
