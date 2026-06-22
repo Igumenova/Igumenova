@@ -71,7 +71,7 @@ Additional   REST API • PWA • Service Workers • FCM • OAuth
 ---
 ## Achievements
 
-→ Winner of university hackathons (2022, 2023)
+→ Winner of university hackathons (2023, 2024)
 
 → Participant of ICPC programming contest in Saint Petersburg
 
